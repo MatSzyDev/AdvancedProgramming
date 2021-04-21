@@ -1,0 +1,7 @@
+﻿@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Program> Localizer
+
+@{ViewData["Title"] = "About";}
+
+<h1>@Localizer["Welcome"]</h1>
+<h2>@Localizer["AboutMe"]</h2>
