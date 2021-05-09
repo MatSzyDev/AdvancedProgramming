@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Katalog osób</title>
+    <link rel="stylesheet" href="Assets/style.css" />
+</head>
+<body>
+    <div class="menu">
+        <a href="index.html">Do zrobienia</a>
+        <a href="osoby.html" class="active">Katalog osób</a>
+        <a href="books.html">Katalog książek</a>
+    </div>
+
+    <div class="container">
+        <h1>Dodaj osoby do katalogu</h1>
+        <br />
+        <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+            <label>
+                Podaj imie
+                <input type="text" id="add-name">
+            </label>
+            <br /><br />
+            <label>
+                Podaj nazwisko
+                <input type="text" id="add-lastname">
+            </label>
+
+            <input type="submit" value="Wyślij">
+        </form>
+
+        <div id="spoiler">
+            <h3>Edit</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="updateItem()">
+                <input type="hidden" id="edit-id">
+                <input type="checkbox" id="edit-isComplete">
+                <input type="text" id="edit-name">
+                <input type="submit" value="Save">
+            </form>
+        </div>
+        <br />
+        <table>
+            <tr>
+                <th class="yellowgreen">#</th>
+                <th class="yellowgreen">Imie</th>
+                <th class="yellowgreen">Nazwisko</th>
+                <th class="yellowgreen">Edytuj</th>
+                <th class="yellowgreen">Usuń</th>
+            </tr>
+            <tbody id="todos"></tbody>
+        </table>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+                crossorigin="anonymous"></script>
+        <script src="/Assets/osoby.js"></script>
+    </div>
+</body>
+</html>

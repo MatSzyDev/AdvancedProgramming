@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>To-do CRUD</title>
+    <link rel="stylesheet" href="Assets/style.css" />
+</head>
+<body>
+    <div class="menu">
+        <a href="index.html" class="active">Do zrobienia</a>
+        <a href="osoby.html">Katalog osób</a>
+        <a href="books.html">Katalog książek</a>
+    </div>
+    <div class="container">
+        <h1>To-do CRUD</h1>
+        <h3>Add</h3>
+        <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+            <input type="text" id="add-name" placeholder="New to-do">
+            <input type="submit" value="Add">
+        </form>
+        <div id="spoiler">
+            <h3>Edit</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="updateItem()">
+                <input type="hidden" id="edit-id">
+                <input type="checkbox" id="edit-isComplete">
+                <input type="text" id="edit-name">
+                <input type="submit" value="Save">
+            </form>
+        </div>
+        <p id="counter"></p>
+        <table>
+            <tr>
+                <th>Is Complete</th>
+                <th>Name</th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tbody id="todos"></tbody>
+        </table>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+                crossorigin="anonymous"></script>
+        <script src="/Assets/site.js"></script>
+    </div>
+</body>
+</html>
