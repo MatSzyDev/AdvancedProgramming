@@ -82,9 +82,8 @@ function deleteItem(id) {
 function editItem(id) {
     $.each(todos, function (key, item) {
         if (item.id === id) {
-            $("#edit-book").val(item.book);
+            $("#edit-book").val(item.name);
             $("#edit-id").val(item.id);
-            $("#edit-isComplete")[0].checked = item.isComplete;
         }
     });
     $("#spoiler").css({ display: "block" });
@@ -94,8 +93,7 @@ function updateItem() {
     var id = parseInt($("#edit-id").val(), 10);
     const item = {
         id: id,
-        Book: $("#edit-book").val(),
-        isComplete: $("#edit-isComplete").is(":checked")
+        name: $("#edit-book").val()
     };
     $.ajax({
         type: "POST",

@@ -85,8 +85,8 @@ function editItem(id) {
     $.each(todos, function (key, item) {
         if (item.id === id) {
             $("#edit-name").val(item.name);
+            $("#edit-lastname").val(item.lastname);
             $("#edit-id").val(item.id);
-            $("#edit-isComplete")[0].checked = item.isComplete;
         }
     });
     $("#spoiler").css({ display: "block" });
@@ -97,7 +97,7 @@ function updateItem() {
     const item = {
         id: id,
         name: $("#edit-name").val(),
-        isComplete: $("#edit-isComplete").is(":checked")
+        lastname: $("#edit-lastname").val()
     };
     $.ajax({
         type: "POST",
