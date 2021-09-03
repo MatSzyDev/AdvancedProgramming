@@ -1,0 +1,29 @@
+﻿@page
+@model AdvancedProgramming4.Pages.History
+
+@{
+    ViewData["Title"] = "Historia";
+}
+
+<h1>Historia wiadomości</h1>
+
+<table border="1" cellpadding="5" width="100%">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Wiadomość</th>
+        <th>Data</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    @foreach (var user in Model.MessagesHistory)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Content</td>
+            <td>@user.CreatedAt</td>
+        </tr>
+    }
+    </tbody>
+</table>

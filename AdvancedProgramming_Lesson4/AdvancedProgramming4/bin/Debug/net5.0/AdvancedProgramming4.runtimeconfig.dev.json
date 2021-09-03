@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tezla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tezla\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\appsettings.Development.json
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\appsettings.json
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.StaticWebAssets.xml
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.exe
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.deps.json
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.runtimeconfig.json
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.runtimeconfig.dev.json
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\ref\AdvancedProgramming4.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.Views.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.Views.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Humanizer.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csproj.AssemblyReference.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.AssemblyInfoInputs.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.AssemblyInfo.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorAssemblyInfo.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorAssemblyInfo.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\staticwebassets\AdvancedProgramming4.StaticWebAssets.Manifest.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\staticwebassets\AdvancedProgramming4.StaticWebAssets.xml
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\scopedcss\bundle\AdvancedProgramming4.styles.css
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.TagHelpers.input.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.TagHelpers.output.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorCoreGenerate.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorTargetAssemblyInfo.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorTargetAssemblyInfo.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.Views.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csproj.CopyComplete
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\ref\AdvancedProgramming4.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.genruntimeconfig.cache
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Users.cshtml.g.cs
+C:\Workspace\Projects\AdvancedProgramming4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\appsettings.json
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.StaticWebAssets.xml
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.exe
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.deps.json
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.runtimeconfig.json
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.runtimeconfig.dev.json
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\ref\AdvancedProgramming4.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.Views.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\AdvancedProgramming4.Views.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csprojAssemblyReference.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.AssemblyInfoInputs.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.AssemblyInfo.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csproj.CoreCompileInputs.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorAssemblyInfo.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorAssemblyInfo.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\staticwebassets\AdvancedProgramming4.StaticWebAssets.Manifest.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\staticwebassets\AdvancedProgramming4.StaticWebAssets.xml
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\scopedcss\bundle\AdvancedProgramming4.styles.css
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.TagHelpers.input.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.TagHelpers.output.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorCoreGenerate.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\Users.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorTargetAssemblyInfo.cache
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.RazorTargetAssemblyInfo.cs
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.Views.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.csproj.CopyComplete
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\ref\AdvancedProgramming4.dll
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.pdb
+C:\Users\tezla\source\repos\GIT Mój\AdvancedProgramming_Lesson4\AdvancedProgramming4\obj\Debug\net5.0\AdvancedProgramming4.genruntimeconfig.cache

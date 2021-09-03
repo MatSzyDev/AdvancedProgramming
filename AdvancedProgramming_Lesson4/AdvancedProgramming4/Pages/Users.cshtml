@@ -1,0 +1,35 @@
+﻿@page
+@model AdvancedProgramming4.Pages.Users
+
+@{
+    ViewData["Title"] = "Użytkownicy";
+}
+
+
+@if (!Model.IsAdmin)
+{
+    <h1>Nie masz dostępu</h1>
+}
+else
+{
+    <table border="1" cellpadding="5">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Adres e-mail</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var user in Model.UsersList)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+}
+
